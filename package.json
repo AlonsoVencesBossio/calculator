@@ -1,0 +1,12 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora simple web",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.6.0"
+  }
+}
