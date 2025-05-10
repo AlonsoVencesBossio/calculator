@@ -19,7 +19,7 @@
 
 | Nombre Completo                      | Participación                         |
 |-------------------------------------|---------------------------------------|
-| **Luis Felipe Aldana Vilca**        | Coordinación general, documentación   |
+| **Luis Felipe Aldana Vilca**        | Coordinación y documentación   |
 | **Américo Báez Quispe**             | Frontend, diseño de UI                |
 | **Berta Quinto Taipe**              | Lógica de operaciones                 |
 | **José Alonso Vences Bossio**       | Desarrollo, integración de funciones  |
