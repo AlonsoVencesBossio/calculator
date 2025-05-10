@@ -56,4 +56,31 @@
 ---
 
 ## 📂 Estructura del Repositorio
+develop/
+├── ALDANA/
+├── BAEZ/
+├── QUINTO/
+├── VENCES/
+├── VILLEGAS/
+
+---
+
+## 📊 Resultado Esperado
+
+La aplicación estará disponible para ser utilizada online y también puede ejecutarse localmente o vía Docker.  
+El código está organizado por módulos, con pruebas unitarias implementadas y documentación asociada.  
+Esperamos demostrar la correcta aplicación de principios de ingeniería de software en un entorno colaborativo real.
+
+---
+
+## 🙌 Agradecimientos
+
+Gracias por visitar nuestro proyecto.  
+Si tienes comentarios o sugerencias, no dudes en contactarnos vía GitHub o durante la presentación oficial.
+
+---
+
+<p align="center">
+  🧮 <strong>Construyendo soluciones simples con lógica precisa</strong> ⚙️
+</p>
 
