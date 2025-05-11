@@ -1,0 +1,23 @@
+{
+  "name": "calculadora-web",
+  "version": "1.0.0",
+  "description": "Una calculadora web simple con pruebas unitarias",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "calculadora",
+    "javascript",
+    "pruebas"
+  ],
+  "author": "Equipo de Desarrollo",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
