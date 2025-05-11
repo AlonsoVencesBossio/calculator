@@ -86,5 +86,3 @@ Si tienes comentarios o sugerencias, no dudes en contactarnos vía GitHub o dura
 
 
 
-![image](https://github.com/user-attachments/assets/48ff123a-97ce-4236-b9e4-877979e9eac3)
-
