@@ -2,7 +2,7 @@
 <h3 align="center">Evaluación Final - Universidad Continental 2025-1</h3>
 
 <p align="center">
-  <a href="https://alonsovencesbossio.github.io/calculator/" target="_blank">
+  <a href="https://alonsovencesbossio.github.io/calculator/calculator/" target="_blank">
     🔗 <strong>Visita nuestra Calculadora Web aquí</strong>
   </a>
 </p>
