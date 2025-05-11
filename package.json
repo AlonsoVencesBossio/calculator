@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">🚀 CONSTRUCCIÓN DE SOFTWARE - GRUPO I</h1>\r <h3 align=\"center\">Evaluación Final - Universidad Continental 2025-1</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlonsoVencesBossio/calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlonsoVencesBossio/calculator/issues"
+  },
+  "homepage": "https://github.com/AlonsoVencesBossio/calculator#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
